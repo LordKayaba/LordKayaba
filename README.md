@@ -19,4 +19,4 @@
 ⠀⠀⠀⠀⠈⢻⣿⣿⣿⣾⣿⣿⣿⣿⣿⠟⠁⠀⠀⠸⣿⣿⡿⠁⠀⠀⠀⠈⠙⠛⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠉⠛⠿⠿⠿⠿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-**[About Me..](https://github.com/LordKayaba/LordKayaba/blob/main/Resume.md)**
+**[About Me..](https://github.com/LordKayaba/LordKayaba/blob/main/Resume.md)**      **[درباره من..](https://github.com/LordKayaba/LordKayaba/blob/main/ResumeFarsi.md)**
